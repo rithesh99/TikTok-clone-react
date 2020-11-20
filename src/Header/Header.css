@@ -1,0 +1,14 @@
+.header{
+    position: absolute;
+}
+.header__logo{
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    padding-top: 20px;
+    margin-left: 20px;
+    -webkit-filter: drop-shadow(1px 1px 0 black)
+                  drop-shadow(-1px -1px 0 black);
+  filter: drop-shadow(1px 1px 0 black) 
+          drop-shadow(-1px -1px 0 black);
+}
